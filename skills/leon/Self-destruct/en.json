@@ -1,0 +1,12 @@
+{
+  "actions": {
+    "run": {
+      "type": "dialog",
+      "utterance_samples": [
+        "Self destruct",
+        "Start self destruct sequence"
+      ],
+      "answers": ["Okay! Starting self destruct sequence in T minus. 10 9 8 7 6 5 4 3 2 1, Kaboom!"]
+    }
+  }
+}
